@@ -1,0 +1,4 @@
+segment_lcd.c:26:16:SEG_LCD_WriteString	24	static
+segment_lcd.c:82:13:SetOutput	24	static
+segment_lcd.c:87:13:SetSegmentPins	24	static
+segment_lcd.c:103:6:SEG_LCD_Process	16	static
