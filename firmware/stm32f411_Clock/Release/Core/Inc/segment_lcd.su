@@ -1,0 +1,2 @@
+segment_lcd.c:26:16:SEG_LCD_WriteString	16	static
+segment_lcd.c:103:6:SEG_LCD_Process	24	static
