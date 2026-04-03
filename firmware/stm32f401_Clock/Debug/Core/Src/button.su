@@ -1,7 +1,0 @@
-button.c:37:6:BUTTON_LowLevelManager	24	static
-button.c:93:6:BUTTON_HighLevelManager	16	static
-button.c:136:6:BUTTON_Process	8	static
-button.c:145:6:BUTTON_TimerProcess	16	static
-button.c:168:14:BUTTON_GetAction	16	static
-button.c:176:6:BUTTON_ResetActions	16	static
-button.c:187:6:BUTTON_Init	16	static
